@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-sms-nexmo",
+  "version": "1.0.0",
+  "description": "A simple node template for sending sms text messages with Nexmo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pankaryp",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "nexmo": "^2.4.1"
+  }
+}
